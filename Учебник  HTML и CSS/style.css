@@ -1,0 +1,300 @@
+
+.container{
+	display: flex;
+}
+
+
+#elem1 {                              
+	border-width: 2px;   
+	border-style: solid;  
+	border-color: red;  
+	width: 300px;
+	height: 100px;                         
+                                    }	
+                                  #elem2 {
+	                             border-width: 2px;   
+	                             border-style: solid;  
+	                             border-color: red;  
+	                             width: 300px;
+	                             height: 100px;
+                                   }	
+								   #elem3 {
+									border-width: 2px;   
+									border-style: solid;  
+									border-color: red;  
+									width: 300px;
+									height: 100px;
+									  }	
+									  #elem4{
+										border-width: 2px;   
+										border-style: solid;  
+										border-color: red;  
+										width: 300px;
+										height: 100px;
+										  }	
+											
+										#elem5{
+										  border-width: 2px;   
+										  border-style: solid;  
+										  border-color: red;  
+										  width: 300px;
+										  height: 100px;
+											}	
+      
+
+											#elem1 {
+												width: 100px;
+												height: 100px;
+												border-radius: 50px;
+												border: 1px solid red;
+												background-color: blue;
+											}
+											#elem2 {
+												width: 100px;
+												height: 100px;
+												border-radius: 50px;
+												border: 1px solid red;
+												background-color:aqua;
+											}
+											#elem3 {
+												width: 100px;
+												height: 100px;
+												border-radius: 50px;
+												border: 1px solid red;
+												background-color:brown;
+											}
+											@keyframes move {
+												from {
+													margin-left: 0;
+												}
+												to {
+													margin-left: 400px;
+												}
+											}
+											
+											#elem {
+												margin-left: 300px;
+												animation-fill-mode: none;
+												animation-delay: 0s;
+												animation-duration: 3s;
+												animation-name: move;
+												animation-iteration-count: infinite;
+												animation-timing-function: linear;
+												border: 1px solid black;
+												width: 50px;
+												height: 50px;
+											}
+											#elem1 {
+												width: 100px;
+												height: 100px;
+												background: #f1f1f1;
+												margin-bottom: 20px;
+											}
+											
+											#elem2 {
+												width: 100px;
+												height: 100px;
+												background: #f1f1f1;
+												border: 10px solid green;  
+											}
+											.parent {
+												text-align: right;
+												padding: 10px 0;
+												border: 1px solid red;
+											}
+											.child {
+												border: 1px solid green;
+											}
+											.parent	{
+												display: flex;
+												flex-direction: column;
+												width: 300px;
+												height: 200px;
+												border: 1px solid red;
+											}
+											.child {
+												width: 50px;
+												height: 50px;
+												border: 1px solid green;
+											}
+											
+				
+											#parent {
+												background-image: url("bg.png");
+												background-repeat: no-repeat;
+												background-size: cover;
+												display: inline-block;
+												padding: 30px;
+											}
+											#elem {
+												width: 300px;
+												height: 200px;
+												padding: 10px;
+												font-size: 50px;
+												font-weight: bold;
+												
+												border: 20px solid red;
+												background: black;
+												color: red;
+												
+												opacity: 0.7;
+											}
+.bzz.zzz {
+ 
+}
+			body{
+				background-color: aqua;
+
+			}
+
+			#parent {
+				width: 300px;
+				border: 1px solid red;
+			}
+			#child {
+				height: 100px;
+				border: 1px solid green;
+				margin: 10px 20px 30px 40px;
+			}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																			
+										
+									  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

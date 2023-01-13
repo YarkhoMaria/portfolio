@@ -1,0 +1,38 @@
+site.com
+div {
+ p {
+color: red;
+}
+}
+.color(@c: red) {
+	color: @c;
+}
+div {
+.color();
+}
+div {
+.rotate(10deg);
+.skew(10deg);
+}
+//№1⊗mkLsBsFn    
+//Сделайте функцию w(), которая будет задавать ширину элементу.
+.fs(@size){
+
+}
+//№2⊗mkLsBsMWC
+//Сделайте аналогичную функцию для свойства text-shadow;
+.shadow(S){
+.text-shadow(S)
+}
+//№3⊗mkLsBsMWS
+//Реализуйте аналогичную функцию scale, задающую соответствующую трансформацию.
+p {
+	transform: rotate(10deg) skew(10deg);
+}
+
+
+//№4⊗mkLsBsPWC
+//Сделайте функцию, добавляющую фон. С помощью этой функции добавьте блоку несколько фонов.
+.div {
+.shadow(1 px 1px rgb(255, 0, 0));
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: blue;
+}
+
+p{
+    color:red;
+}
+td{
+    color: rgb(226, 43, 43);
+}
+
+
+
+
+@media (max-width: 320px) {
+    p {
+       color:rgb(0, 128, 21)
+    
+    }
+ }
+
+ @media (max-width: 320px) {
+    td {
+       color:rgb(240, 185, 6)
+    }
+ }
+
+
+ @media (max-width: 320px) {
+    body{
+        background-color: rgb(255, 0, 0);
+    }
+}
